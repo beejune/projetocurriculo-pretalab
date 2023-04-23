@@ -1,0 +1,104 @@
+body {
+    background-color: #E7D8F7;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #631DB0;
+    text-align: center;
+    font-weight: 700;
+}
+
+#imagem_perfil {
+    display: block;
+    margin: 0px auto;
+    width:15%;
+    border-radius: 100%;
+    border-style: dotted;
+    border-color: #7014CC;
+    border-width: 4px; }
+
+.subtítulo_primario {
+    color: #631DB0;
+    text-align: center;
+    font-weight: 600;
+}
+
+.subtítulo_secundario {
+    color: #631DB0;
+    text-align: center;
+    font-weight: 500;
+}
+.subtítulo_terceiro {
+    color: #631DB0;
+    font-weight: 500;
+    margin-left: 100px;
+}
+
+.minibio {
+    text-align: center;
+    line-height: 1,5;
+}
+.tabela_habilidades {
+    text-align: left;
+    margin: 0px auto;
+}
+.head_thabilidades {
+    width: 30%;
+    padding: 4px;
+    border-style: solid;
+    border-color: #7014CC;
+    border-width: 3px; 
+}
+
+.body_thabilidades {
+    padding: 4px;
+    border-style: solid;
+    border-color: #7014CC;
+    border-width: 3px; 
+}
+
+.tabelas_principais {
+    text-align: center;
+    border-style: solid;
+    border-color: #7014CC;
+    border-width: 3px;
+    margin: 0px auto;
+}
+.head_tprincipais {
+    width: 30%;
+    padding: 4px;
+    border-style: solid;
+    border-color: #7014CC;
+    border-width: 1px; 
+}
+.body_tprincipais {
+    width: 30%;
+    padding: 4px;
+    border-style: solid;
+    border-color: #7014CC;
+    border-width: 1px;
+}
+.lista {
+    list-style: none;
+}
+
+.rodape{
+    height: 150px;
+    display: flex;
+    align-items: center;
+  }
+#icone_redes {
+    border: 0;
+    margin: 0px auto;
+    height: auto;
+    display: inline-block;
+    width: 35px;
+    margin-right: 18px;
+}
+.tabela-icones {
+  text-align: center;
+  margin-left: 100px;
+  
+}
